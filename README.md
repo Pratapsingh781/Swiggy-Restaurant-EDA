@@ -52,15 +52,24 @@ The dataset contains **8,680 restaurant listings** across **9 cities** and inclu
 ## Repository Structure
 ```text
 Swiggy-Restaurant-EDA/
-├── Swiggy_EDA.ipynb
 ├── README.md
+├── Swiggy_EDA.ipynb
 ```
 
 ## Conclusion
 The analysis highlights differences in restaurant pricing, ratings, food categories, and delivery times across cities. These findings can help identify market patterns and areas for further investigation. The analysis describes relationships in the available data and does not establish causation.
+
 
 ## Future Scope
 - Compare ratings across food categories.
 - Explore how review volume relates to restaurant ratings.
 - Investigate factors associated with longer delivery times.
 - Extend the analysis with additional restaurant or delivery data.
+
+## Connect with Me
+
+**Pratap Singh**
+
+- [GitHub](https://github.com/Pratapsingh781)
+- [LinkedIn](https://linkedin.com/in/pratap-singh-8b6273291/)
+
